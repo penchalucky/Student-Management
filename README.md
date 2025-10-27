@@ -17,13 +17,13 @@ It is built using **React**, **Tailwind CSS**, **Node.js**, **Express**, and **P
 📸 Preview
 
 **Login Page**  
-![Login Page](./screenshots/login.png)
+![Login Page](./frontend/screenshots/login.png)
 
 **Student Dashboard**  
-![Student Dashboard](./screenshots/student-dashboard.png)
+![Student Dashboard](./frontend/screenshots/student-dashboard.png)
 
 **Admin Dashboard**  
-![Admin Dashboard](./screenshots/admin-dashboard.png)
+![Admin Dashboard](./frontend/screenshots/admin-dashboard.png)
 
 
 🎥 [Demo Video](https://1drv.ms/v/c/138af1d99a2d471a/EbhN33bMcl1NvzwKWveQrIEBbOtREBWVMkAzJqtg0CB3cw)
